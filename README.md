@@ -6,13 +6,12 @@ Using Decision tree model to detect camouflaged malicious Crawlers
 
 ## Crawler Time Series Image
 
-<figure class="third">
-     <img src="https://user-images.githubusercontent.com/39653953/121135582-3ae1df00-c867-11eb-9db7-32bbbb70527e.png" width="200"/><img src="https://user-images.githubusercontent.com/39653953/121136454-41248b00-c868-11eb-8f40-8fee02d06271.png" width="200"/><img src="https://user-images.githubusercontent.com/39653953/121136377-294d0700-c868-11eb-9aca-bef6044320eb.png" width="200"/>
-</figure>
+![超几何分布时间间隔的爬虫时间序列图像](https://user-images.githubusercontent.com/39653953/121137592-649c0580-c869-11eb-99a1-47c9332d8893.png)![二项分布时间间隔的爬虫时间序列图像](https://user-images.githubusercontent.com/39653953/121137598-6665c900-c869-11eb-80b4-561386274f2c.png)![几何分布时间间隔的爬虫时间序列图像](https://user-images.githubusercontent.com/39653953/121137600-66fe5f80-c869-11eb-8eab-eab3a3ae4493.png)
+![均匀分布时间间隔爬虫的时间序列图像](https://user-images.githubusercontent.com/39653953/121137601-66fe5f80-c869-11eb-8d8f-3bc5137545fd.png)![人为访问时间间隔的时间序列图像1](https://user-images.githubusercontent.com/39653953/121137602-6796f600-c869-11eb-9f7c-ec968192ac47.png)![人为访问时间间隔的时间序列图像2](https://user-images.githubusercontent.com/39653953/121137603-682f8c80-c869-11eb-99bc-b0972c6e29fb.png)
 
-<figure class="third">
-     <img src="https://user-images.githubusercontent.com/39653953/121136502-500b3d80-c868-11eb-8027-207158e7aaef.png" width="200"/><img src="https://user-images.githubusercontent.com/39653953/121136525-57cae200-c868-11eb-9eb9-3e271d0357a4.png" width="200"/><img src="https://user-images.githubusercontent.com/39653953/121136552-5d282c80-c868-11eb-8fd3-15d652c319c1.png" width="200"/>
-</figure>
+
+
+
 
 
 ## Result
